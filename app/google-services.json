@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "334833608794",
+    "firebase_url": "https://glue-58d4e.firebaseio.com",
+    "project_id": "glue-58d4e",
+    "storage_bucket": "glue-58d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334833608794:android:c01d505be5ad6c6a",
+        "android_client_info": {
+          "package_name": "com.hfad.glue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334833608794-6gp1i1jtpimusladnk2sbkhm7skmoaci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.glue",
+            "certificate_hash": "1dff9bc9678464e02784044bc66bc7e0cec033f8"
+          }
+        },
+        {
+          "client_id": "334833608794-kphacvr7c949nusuj4083d1q9408mb35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-woHmeA0tcjE-dFk_ElCdQyLvIIiRpg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334833608794-kphacvr7c949nusuj4083d1q9408mb35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

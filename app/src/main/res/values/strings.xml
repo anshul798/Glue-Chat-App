@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Glue</string>
+    <string name="need_a_new_acoount">Need a new account ?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_out">Log out</string>
+    <string name="login">Login</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="already_have_an_account">Already have an Account</string>
+    <string name="welcome_to_glue">Welcome to GLUE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_status">Hi there, I am using Glue</string>
+</resources>

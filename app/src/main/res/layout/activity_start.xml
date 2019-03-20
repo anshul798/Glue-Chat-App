@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".StartActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="208dp"
+        android:text="@string/welcome_to_glue"
+        android:textColor="@android:color/white"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/start_log_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="83dp"
+        android:layout_marginTop="41dp"
+        android:backgroundTint="@color/colorAccent"
+        android:text="@string/already_have_an_account"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/start_reg_btn"
+        android:layout_width="217dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/start_log_btn"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="83dp"
+        android:layout_marginTop="5dp"
+        android:backgroundTint="@android:color/white"
+        android:text="@string/need_a_new_acoount"
+        android:textColor="@color/colorPrimary" />
+</RelativeLayout>
